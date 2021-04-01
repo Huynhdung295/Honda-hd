@@ -1,13 +1,21 @@
 {
-  "name": "honda",
+  "name": "cv_honda",
   "version": "1.0.0",
-  "description": "Honda website clone project.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huynhdung295/Honda-hd.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huynhdung295/Honda-hd/issues"
+  },
+  "homepage": "https://github.com/Huynhdung295/Honda-hd#readme",
   "dependencies": {
     "animate.css": "^4.1.1",
     "bootstrap": "^4.5.3",
